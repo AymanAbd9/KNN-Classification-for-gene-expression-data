@@ -1,7 +1,7 @@
 
-# Cancer predictions based on gene expressions
+# Gene expression classification for cancer presence
 
-This project explores the use of the **K-Nearest Neighbors (KNN)** algorithm for classifying cancer based on gene expression data. 
+This project explores the use of the **K-Nearest Neighbors (KNN)** algorithm for classifying gene expressions for canser precense. 
 The notebook provides a step-by-step approach to preprocessing, visualizing, and modeling the data, leveraging scikit-learn for machine learning workflows.
 
 ## Features
